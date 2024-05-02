@@ -1,2 +1,17 @@
 # Certifications
 This repository contains all the certifications I've achieved.
+
+# 1. Google cloud Professional Data Engineer :
+Link to access GCP data engineer certificate : https://google.accredible.com/bec4ed6e-5222-4e14-abfe-2a1ccd8c58d4
+Link to access GCP data engineer badge : https://www.credly.com/badges/44001d35-8c3b-408c-a9c7-ca90fbefefd4
+
+# 2. Pyspark - Udemy course :
+![UC-acd9cccb-e365-4450-a465-67c5799eaa1b](https://github.com/aakriti-911/Certifications/assets/165250095/f90ff486-0337-43a1-b467-47fed62419f2)
+
+# 3. Big Data Analytics with Apache spark :
+![image](https://github.com/aakriti-911/Certifications/assets/165250095/5894326a-e0d0-4c7b-be87-c1a06b98f4a4)
+
+# 4. Data Governance Fundamentals :
+![UC-a9cacf73-e7b0-4517-afb9-fd30faafdfb5](https://github.com/aakriti-911/Certifications/assets/165250095/2e79c70a-7bcc-44df-8327-506f50dc9d98)
+
+
