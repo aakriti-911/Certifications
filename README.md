@@ -3,6 +3,7 @@ This repository contains all the certifications I've achieved.
 
 # 1. Google cloud Professional Data Engineer :
 Link to access GCP data engineer certificate : https://google.accredible.com/bec4ed6e-5222-4e14-abfe-2a1ccd8c58d4
+
 Link to access GCP data engineer badge : https://www.credly.com/badges/44001d35-8c3b-408c-a9c7-ca90fbefefd4
 
 # 2. Pyspark - Udemy course :
