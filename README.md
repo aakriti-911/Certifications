@@ -1,5 +1,5 @@
-# Certifications
-This repository contains all the certifications I've achieved.
+# Certifications and Recognition awards
+This repository contains all the certifications and Recognition awards I've achieved.
 
 # 1. Google cloud Professional Data Engineer :
 Link to access GCP data engineer certificate : https://google.accredible.com/bec4ed6e-5222-4e14-abfe-2a1ccd8c58d4
@@ -21,5 +21,6 @@ Link to access GCP data engineer badge : https://www.credly.com/badges/44001d35-
 # 6. Apache PySpark by Example :
 ![Screenshot_2-5-2024_164229_](https://github.com/aakriti-911/Certifications/assets/165250095/4f49477f-9b75-42c2-8dea-36381b84265a)
 
-
+# 7. Recognized as star for AI contributions in Data engineering domain:
+<img width="725" height="387" alt="Screenshot 2025-07-15 at 7 59 06 PM" src="https://github.com/user-attachments/assets/76856532-eb1f-4b40-8b69-862db08341f9" />
 
